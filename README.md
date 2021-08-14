@@ -18,3 +18,5 @@ you need to restart the program.
 
 If you specify the storage on the hard disk(for example: F://files), 
 you do not need to restart the program.
+
+In file "." replaced to "_". (fp@mail.ru.txt = fp@mail_ru.txt)
