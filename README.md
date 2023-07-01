@@ -1,5 +1,5 @@
 # test project for innowise
-People creater
+People creator
 You can: create person (name, surmane, e-mail, phone, role).
 Write info in file.
 Read from file.
